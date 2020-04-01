@@ -1,0 +1,11 @@
+package com.stackroute.streams;
+
+public class StreamDemo {
+	
+	public static void main(String[] args)
+	{
+		String[] strArray=new String[]{"san","ram","jhon"};
+
+	}
+
+}

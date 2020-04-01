@@ -1,0 +1,15 @@
+package com.stackroute.streams;
+
+import java.util.stream.Stream;
+
+public class StreamDemo {
+	
+	public static void main(String[] args)
+	{
+		String[] strArray=new String[]{"san","ram","jhon"};
+		
+		System.out.println(Stream.of(strArray));
+
+	}
+
+}
